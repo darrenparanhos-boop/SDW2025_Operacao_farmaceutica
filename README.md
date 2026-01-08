@@ -78,9 +78,20 @@ Recomenda-se a continuidade da utilização das ferramentas já implementadas e 
 
 ## 📎 Anexos  
 - **Infraestrutura Global AWS.pdf**  
+[Infraestrutura Global AWS.pdf](https://github.com/user-attachments/files/24502464/Infraestrutura.Global.AWS.pdf)
+
+
 - **Computação em AWS.pdf**  
+[Computação em AWS.pdf](https://github.com/user-attachments/files/24502466/Computacao.em.AWS.pdf)
+
+
 - **Redes em AWS.pdf**  
+[Redes em AWS.pdf](https://github.com/user-attachments/files/24502471/Redes.em.AWS.pdf)
+
+
 - **Armazenamento e Banco de Dados AWS.pdf**  
+[Armazenamento e Banco de Dados AWS.pdf](https://github.com/user-attachments/files/24502473/Armazenamento.e.Banco.de.Dados.AWS.pdf)
+
 
 ---
 
