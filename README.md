@@ -95,7 +95,7 @@ Recomenda-se a continuidade da utilização das ferramentas já implementadas e 
 [Armazenamento e Banco de Dados AWS.pdf](https://github.com/user-attachments/files/24502473/Armazenamento.e.Banco.de.Dados.AWS.pdf)
 
 
-- **Apresentação.pptx** 
+- **Apresentação.pptx**   
 [Apresentacao_AWS_Abstergo.pptx](https://github.com/user-attachments/files/24508499/Apresentacao_AWS_Abstergo.pptx)
 
 
