@@ -33,7 +33,9 @@ A implementação foi organizada em três etapas, cada uma com objetivos especí
 ### **Etapa 2 – Amazon S3 (Simple Storage Service)**  
 - **Objetivo:** Armazenamento de objetos em nuvem.  
 - **Caso de uso:** Armazenamento seguro de documentos, relatórios de distribuição e dados de clientes/parceiros.  
-- **Benefício:** Substituição de datacenters locais caros, com cobrança proporcional ao uso e eliminação de gastos com manutenção física.  
+- **Benefício:** Substituição de datacenters locais caros, com cobrança proporcional ao uso e eliminação de gastos com manutenção física.
+- - Configuração escolhida: Utilização da classe de armazenamento S3 Intelligent-Tiering, que gerencia automaticamente o ciclo de vida dos objetos e otimiza custos ao mover dados entre camadas de acesso conforme padrões de uso.
+
 
 ### **Etapa 3 – AWS Lambda (Computação Serverless)**  
 - **Objetivo:** Execução de código sob demanda sem necessidade de servidores dedicados.  
